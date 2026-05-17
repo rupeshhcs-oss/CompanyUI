@@ -1,0 +1,18 @@
+[33mf75def3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Merge branch 'main' of https://github.com/rupeshhcs-oss/Square-Cube-UI
+[33m69d2e51[m Update main logo
+[33m1a5f434[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add files via upload
+[33m9e5d2b0[m Add files via upload
+[33mfb6edaa[m fix: Update layout to use RootLayoutWrapper for client components
+[33m9a3d9c7[m feat: Add RootLayoutWrapper for client components
+[33mb286d8a[m fix: Remove unused useState import causing build error
+[33m4929b71[m feat: Create world-class Square and Cube construction company website
+[33m93dd37a[m push
+[33m47752f5[m push
+[33m297a521[m push
+[33m77215d6[m push
+[33m50803fe[m push
+[33m4f973cd[m push
+[33m3f19904[m push
+[33m1e80f96[m update
+[33m7f89ce6[m push
+[33m3c2a39d[m Initialize project using Create React App
